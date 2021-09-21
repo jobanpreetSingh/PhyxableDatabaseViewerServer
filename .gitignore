@@ -1,0 +1,3 @@
+# node modules adding not pusing git
+/node_modules
+/.env
